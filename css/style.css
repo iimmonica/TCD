@@ -75,9 +75,9 @@ body {
 	background-size: contain;
 	background-repeat: no-repeat;
 	display: inline-block;
-	width: 30px;
-	height: 35px;
-	margin-right: 10px;
+	width: 28px;
+	height: 32px;
+	margin-right: 5px;
 }
 ul.nav.navbar-nav.navbar-right {
     margin-top: 10px;
@@ -1025,6 +1025,11 @@ section.contact-us .contact-info {
 }	
 .navbar>.container .navbar-header a.navbar-brand h1 {
     font-size: 30px;
+}
+.tcd-logo{
+	width: 20px;
+	height: 25px;
+	margin-right: 2px;
 }
 ul.nav.navbar-nav.navbar-right {
     margin: 11px -70px 0 0px;
