@@ -267,6 +267,12 @@ section.about-us  h2{
     padding: 40px 0 30px;
 	font-family: 'Nunito', sans-serif;
 }
+section.about-us  h4{
+	font-size: 28px;
+    font-weight:300;
+    padding: 40px 0 30px;
+	font-family: 'Nunito', sans-serif;
+}
 section.about-us p {
 	font-size:17px;
 	font-weight:inherit;
@@ -889,10 +895,10 @@ section.footer p a:hover {
 	height:795px;	
 	}
 	section.about-us .col-lg-6.about-info1 {
-    padding: 0 15px 0 0;
+    padding: 0;
 }
 	section.about-us .col-lg-6.about-info2 {
-    padding: 0 0 0 15px;
+    padding: 0;
 }
 section.about-us p {
     font-size: 16px;
@@ -902,9 +908,9 @@ section.about-us p {
 
 @media (max-width: 1366px) {
 section.about-us .col-lg-6.about-info2 {
-    padding: 0 15px 0 15px;
+    padding: 0;
 }
-section.about-us h2 {
+section.about-us h2, section.about-us h4{
 	padding:40px 0 20px;
 }
 }
@@ -917,7 +923,7 @@ section.about-us h2 {
 
 @media (max-width: 1080px) {
 section.about-us .col-lg-6.about-info1,section.about-us .col-lg-6.about-info2 {
-    padding: 0 15px 0 15px;
+    padding: 0;
 }
 section.about-us img.img-responsive {
     margin: 0 auto;
