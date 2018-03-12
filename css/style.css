@@ -70,6 +70,15 @@ body {
     /*text-transform: uppercase;*/
     font-weight: 300;
 }
+.tcd-logo{
+	background: url(../images/tcd-logo.gif);
+	background-size: contain;
+	background-repeat: no-repeat;
+	display: inline-block;
+	width: 30px;
+	height: 35px;
+	margin-right: 10px;
+}
 ul.nav.navbar-nav.navbar-right {
     margin-top: 10px;
 }
