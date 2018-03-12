@@ -671,7 +671,7 @@ section.contact-us .contact-info h4 {
 	font-weight:300;
 	font-family: 'Nunito', sans-serif;
 }
-section.contact-us .contact-info p {
+section.contact-us .contact-info p, section.contact-us .contact-info li {
 	font-size:18px;
 	padding:10px 0;
 	color:#fff;
@@ -1151,7 +1151,7 @@ section.contact-us .contact-info h4 {
 	text-align:center;
     padding: 20px 0 10px;
 }
-section.contact-us .contact-info p {
+section.contact-us .contact-info p, section.contact-us .contact-info li {
 	margin-left: 120px;
 }
 ul.social-icons2 {
@@ -1199,7 +1199,7 @@ section.our-gallery img.img-responsive {
 .ch-grid li {
     margin: 0 10px 0 10px;
 }
-section.contact-us .contact-info p {
+section.contact-us .contact-info p, section.contact-us .contact-info li {
     margin-left: 80px;
 }
 }
@@ -1232,7 +1232,7 @@ section.our-team section.main ul.ch-grid li.t2,section.our-team section.main ul.
 section.contact-us .contact-info h4 {
     font-size: 22px;
 }
-section.contact-us .contact-info p {
+section.contact-us .contact-info p, section.contact-us .contact-info li {
     margin-left: 70px;
     font-size: 17px;
 }
@@ -1275,7 +1275,7 @@ section.our-gallery img.img-responsive {
 section.our-services h3.text-center, section.our-gallery h3.text-center, section.our-team h3.text-center, section.contact-us h3.text-center {
     font-size: 29px;
 }
-section.contact-us .contact-info p {
+section.contact-us .contact-info p, section.contact-us .contact-info li {
     margin-left: 40px;
 }
 section.contact-us .contact-info p.addr {
@@ -1293,7 +1293,7 @@ section.our-gallery img.img-responsive {
 section.our-services h3.text-center, section.our-gallery h3.text-center, section.our-team h3.text-center, section.contact-us h3.text-center {
     font-size: 27px;
 }
-section.contact-us .contact-info p {
+section.contact-us .contact-info p, section.contact-us .contact-info li {
     margin-left: 15px;
 }
 section.contact-us form button {
@@ -1305,7 +1305,7 @@ section.our-services .serv-info p.serv {
 }
 
 @media (max-width: 375px) {
-section.contact-us .contact-info p {
+section.contact-us .contact-info p, section.contact-us .contact-info li {
     margin-left: 5px;
 }
 section.our-services h3.text-center, section.our-gallery h3.text-center, section.our-team h3.text-center, section.contact-us h3.text-center {
